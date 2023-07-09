@@ -1,16 +1,17 @@
-### Hi there 👋
+## ❓ Introduction
 
-<!--
-**Ben-Bweno/Ben-Bweno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Ben.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/Ben-Bweno)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/173837280304300032)](https://discord.com/users/173837280304300032)
+## 💻 Languages & Skills
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,mongodb,mysql,md,git,jquery,nginx,vscode&theme=dark)](https://github.com/Ben-Bweno)
+
+## 📊 Stats
+
+[![](https://img.shields.io/github/followers/awayfromkane?style=for-the-badge)](https://github.com/Ben-Bweno)
+[![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)](https://github.com/Ben-Bweno)
+[![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Ben-Bweno)
+[![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Ben-Bweno)
