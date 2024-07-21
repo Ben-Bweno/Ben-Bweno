@@ -11,7 +11,5 @@
 
 ## 📊 Stats
 
-[![](https://img.shields.io/github/followers/awayfromkane?style=for-the-badge)](https://github.com/Ben-Bweno)
-[![](https://komarev.com/ghpvc/?username=awayfromkane&color=blue&style=for-the-badge)](https://github.com/Ben-Bweno)
-[![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Ben-Bweno)
-[![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Ben-Bweno)
+[![](https://img.shields.io/github/followers/Ben-Bweno?style=for-the-badge)](https://github.com/Ben-Bweno)
+[![](https://komarev.com/ghpvc/?username=Ben-Bweno&color=blue&style=for-the-badge)](https://github.com/Ben-Bweno)
